@@ -1,4 +1,5 @@
 # GLORA: Global Events Analysis with LangChain
+GLORA is designed for researchers, analysts, and developers who need to extract insights from global event datasets using intuitive, conversational queries.
 
 GLORA is a powerful tool for analyzing and querying global events using natural language. It combines the capabilities of LangChain with vector embeddings to provide semantic search and conversational analysis of event data.
 

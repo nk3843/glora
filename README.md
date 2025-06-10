@@ -24,7 +24,7 @@ GLORA is a powerful tool for analyzing and querying global events using natural 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nk3843/glora
 cd glora
 ```
 
@@ -86,7 +86,7 @@ Content-Type: application/json
 
 {
     "messages": [
-        {"role": "user", "content": "What were the major trade events in 2022?"}
+        {"role": "user", "content": "Tell me violent events in South America in 2023?"}
     ]
 }
 ```
